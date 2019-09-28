@@ -10,6 +10,6 @@ class Chocolates():
 
 
     def find_my_choclates(self):
-        for i in range(0,20):
+        for i in range(0,18):
             self.chocolates += i
         return self.chocolates
